@@ -1,0 +1,70 @@
+{
+  "Home": {
+    "heroTitle": "Willkommen bei XerionX",
+    "heroSubtitle": "Die Zukunft des digitalen Einkaufs",
+    "ctaPrimary": "Produkte entdecken",
+    "ctaSecondary": "Mehr erfahren"
+  },
+  "Nav": {
+    "home": "Home",
+    "info": "Info",
+    "products": "Produkte",
+    "tutorials": "Tutorials",
+    "admin": "Admin",
+    "login": "Login"
+  },
+  "Home": {
+    "heroTitle": "Willkommen bei XerionX",
+    "heroSubtitle": "Die Zukunft des digitalen Einkaufs",
+    "ctaPrimary": "Produkte entdecken",
+    "ctaSecondary": "Mehr erfahren"
+  },
+  "Info": {
+    "title": "Über XerionX",
+    "description": "XerionX ist eine innovative Plattform für digitale Produkte und Tutorials. Wir bieten hochwertige Inhalte für die Roblox-Community.",
+    "features": {
+      "quality": "Hochwertige Produkte",
+      "support": "24/7 Support",
+      "community": "Aktive Community"
+    }
+  },
+  "Products": {
+    "title": "Unsere Produkte",
+    "buyButton": "Im Roblox Spiel kaufen",
+    "price": "Preis",
+    "robux": "Robux"
+  },
+  "Tutorials": {
+    "title": "Tutorials",
+    "readMore": "Weiterlesen",
+    "gallery": "Galerie"
+  },
+  "Admin": {
+    "title": "Admin Dashboard",
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "products": "Produkte verwalten",
+    "tutorials": "Tutorials verwalten",
+    "create": "Erstellen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "save": "Speichern",
+    "cancel": "Abbrechen"
+  },
+  "Auth": {
+    "username": "Benutzername",
+    "password": "Passwort",
+    "login": "Anmelden",
+    "error": "Ungültige Anmeldeinformationen"
+  },
+  "Footer": {
+    "impressum": "Impressum",
+    "cookies": "Cookie-Einstellungen",
+    "rights": "Alle Rechte vorbehalten"
+  },
+  "CookieBanner": {
+    "message": "Wir verwenden Cookies, um Ihnen das beste Erlebnis zu bieten.",
+    "accept": "Akzeptieren",
+    "decline": "Ablehnen"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Home": {
+    "heroTitle": "Welcome to XerionX",
+    "heroSubtitle": "The Future of Digital Shopping",
+    "ctaPrimary": "Discover Products",
+    "ctaSecondary": "Learn More"
+  },
+  "Nav": {
+    "home": "Home",
+    "info": "Info",
+    "products": "Products",
+    "tutorials": "Tutorials",
+    "admin": "Admin",
+    "login": "Login"
+  },
+  "Info": {
+    "title": "About XerionX",
+    "description": "XerionX is an innovative platform for digital products and tutorials. We offer high-quality content for the Roblox community.",
+    "features": {
+      "quality": "High-Quality Products",
+      "support": "24/7 Support",
+      "community": "Active Community"
+    }
+  },
+  "Products": {
+    "title": "Our Products",
+    "buyButton": "Buy in Roblox Game",
+    "price": "Price",
+    "robux": "Robux"
+  },
+  "Tutorials": {
+    "title": "Tutorials",
+    "readMore": "Read More",
+    "gallery": "Gallery"
+  },
+  "Admin": {
+    "title": "Admin Dashboard",
+    "login": "Login",
+    "logout": "Logout",
+    "products": "Manage Products",
+    "tutorials": "Manage Tutorials",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "Auth": {
+    "username": "Username",
+    "password": "Password",
+    "login": "Login",
+    "error": "Invalid credentials"
+  },
+  "Footer": {
+    "impressum": "Legal Notice",
+    "cookies": "Cookie Settings",
+    "rights": "All rights reserved"
+  },
+  "CookieBanner": {
+    "message": "We use cookies to provide you with the best experience.",
+    "accept": "Accept",
+    "decline": "Decline"
+  }
+}
